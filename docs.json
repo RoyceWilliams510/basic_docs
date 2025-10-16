@@ -58,7 +58,6 @@
           },
           {
             "group": "Endpoint examples",
-            "openapi": "https://api.maplebilling.com/api/v1/docs/webhooks_spec.json",
             "pages": [
               "api-reference/endpoint/webhook"
             ]
