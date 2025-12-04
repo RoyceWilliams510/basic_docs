@@ -7,8 +7,11 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
+  "metadata": {
+    "timestamp":true
+  },
   "banner": {
-    "content":"[**Gitpod is now Ona**](https://ona.com/stories/gitpod-is-now-ona). You may still see Gitpod referenced in these docs and the product as we transition."
+    "content":"[**Gitpod is now Ona**](https://ona.com/stories/gitpod-is-now-ona). You may still see Gitpod referenced in these docs and the product as we transition. blah blah blah blah e transition. bla"
   },
   "favicon": "/favicon.svg",
   "navigation": {
